@@ -1,2 +1,2 @@
 # prueba
-prueba repositorio
+Esta es una prueba github
